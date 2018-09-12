@@ -13,6 +13,5 @@ the author describes the common features that characterize a 'bad writer'. In th
 essay, he insists that instead of offending bad writers, he "seeks to inspire bad
 writers, [and] to encourage them to take creative writing more seriously".
   
-Another paragraph blah blah blah askdh aksdg asgd akjshd aksjd askjdha askjda akjshda
-aksjd ajkshd aksjhd aksjdha akjshd akjshd aksjhda ksjda kajshda sdkjasda sdkjasd askjdh
+Another paragraph 
   
