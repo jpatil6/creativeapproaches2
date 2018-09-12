@@ -102,10 +102,3 @@ concat: {
 
 ## Version
 * Version 4.0.0
-
-## Contact
-#### Developer
-
-* Homepage: http://vinitkumar.me
-* e-mail: vinit1414.08@bitmesra.ac.in
-* Twitter: [@vinitkme](https://twitter.com/vinitkme "vinitkme on twitter")
