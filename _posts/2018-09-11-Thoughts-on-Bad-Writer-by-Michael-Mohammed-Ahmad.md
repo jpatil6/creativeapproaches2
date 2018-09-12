@@ -34,6 +34,6 @@ Instead of building such an argument, the author invites the reader to construct
 their own understanding of it by putting forth entertaining narratives. 
 Although I have little experience with creative writing, I thoroughly enjoyed 
 how I was able to relate to the author's frustrations and hopes for writing in 
-Western Sydney, by contextualizing 
+Western Sydney, by contextualizing it with my personal experiences in science.
 
   
