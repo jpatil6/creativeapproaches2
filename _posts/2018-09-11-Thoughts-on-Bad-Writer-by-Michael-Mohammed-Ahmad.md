@@ -6,4 +6,4 @@ category: articles
 comments: false
 ---
 
-  Michael Mohammed Ahmad sums his understanding of poor creative writing in the conversational narrative essay, 'Bad Writer'. Drawing from refreshingly original personal anecdotes and  
+  Michael Mohammed Ahmad sums his understanding of poor creative writing in the conversational narrative essay, 'Bad Writer'. Drawing from refreshingly original personal anecdotes and a 
