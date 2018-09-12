@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "How To Get Readonly Mode In Django"
-description: "Guide to setup readonly mode for some users in django admin"
+title: "Thoughts on Bad Writer by Michael Mohammed Ahmad"
+description: "A short reflection on an essay for CEAT FA18 Week 1 Homework assignment"
 category: articles
-tags: [python, django, django-admin]
 comments: false
 ---
 
