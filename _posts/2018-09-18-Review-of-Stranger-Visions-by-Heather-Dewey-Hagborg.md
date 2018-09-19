@@ -6,7 +6,11 @@ category: articles
 comments: false
 ---
 
-In 'Stranger Visions' the artist, Heather Dewey-Hagborg, collected personal traces like hair, cigarette butts, and chewing gum, that strangers unwittingly left behind in public spaces. The genetic material from these artifacts was extracted, and analyzed to construct a computationally generated 3D printed portrait sculpture. These plastic facial reconstructions with their indistinct hollow gazes were displayed on the wall much like animal trophy heads. A black box below the sculpture exhibited the refuse material from which the genetic material was retrieved, an image of where it was recovered from, and a brief description of the genetic details obtained.     
+In 'Stranger Visions' the artist, Heather Dewey-Hagborg, collected personal traces like hair, cigarette butts, and chewing gum, that strangers unwittingly left behind in public spaces. The genetic material from these artifacts was extracted, and analyzed to construct a computationally generated 3D printed portrait sculpture. 
+
+These plastic facial reconstructions with their indistinct hollow gazes were displayed on the wall much like animal trophy heads. A black box below the sculpture exhibited the refuse material from which the genetic material was retrieved, an image of where it was recovered from, and a brief description of the genetic details obtained.     
+
+The bizarre trophy display of faces with deadpan eyes, and refuse material from the streets, made me recoil at first impression. As I explored the startling definition of facial characteristics in the sculptures, I was amazed by the rich potential for information contained in these nearly unavoidable biological 'footprints' of our existence. The fascination soon dawned into  
 
 300-400 words
 Consider aspects like content, form, style, context, etc. Be thorough and thoughtful.
@@ -20,8 +24,6 @@ What is the piece trying to do or say? (50)
 - Explores how our genetic identity manifests in the most ordinary of our refuse\n
 - Raise awareness of the fragility of genomic privacy\n
 - Communicate the dangers of data collection and bias esp. with genomic data\n
-
-
 
 What about the piece appeals to you? (50)
 - It unsettles me
@@ -37,10 +39,10 @@ What doesn't work? (50)
 - First instinct is to shrink away from it. It startles and may immediately distance viewers.
 - 
 
-What could make it stronger, and what is adding to or taking away from its impact?
+What could make it stronger, and what is adding to or taking away from its impact?(50)
 - Instead should pull them in - intrigue - foot in the door
 
-Conclusion:
+Conclusion:(50)
 What is it really?
 - Banksy - 'Art should comfort the disturbed and disturb the comfortable' - I love the balance in this definition of art.
 - This artpiece disturbs, but no comforting. there should be a positive note.
