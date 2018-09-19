@@ -18,4 +18,4 @@ Oddly, what appealed to me about this art was that it unsettled me at first glan
 
 The slightly harsh effectiveness of the art though seems to come at a cost. The unsettling first impression may distance passing-by viewers. Instead of shocking at first sight, the art could be presented to pull in viewers by intriguing them, then unsettling them by exposing the background of the art.
 
-This art with a cause reminds of a quote by prominent artist Banksy: 'Art should comfort the disturbed and disturb the comfortable'. This installation is very effective at disturbing the viewer, but I feel it could be improved by providing a constructive way to resolve the viewer's alarm.  
+This art with a cause reminds of a quote by prominent artist Banksy: 'Art should comfort the disturbed and disturb the comfortable'. This 'Stranger Visions' is effective at disturbing the viewer, but I feel it could be improved by providing a constructive way to resolve the viewer's alarm.  
