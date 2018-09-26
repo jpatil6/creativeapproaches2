@@ -6,7 +6,7 @@ category: articles
 comments: false
 ---
 
-![](localimages/strangervisions.jpg)
+![useful image](localimages/strangervisions.jpg)
 
 In 'Stranger Visions' the artist, Heather Dewey-Hagborg, collected personal traces like hair, cigarette butts, and chewing gum, that strangers unwittingly left behind in public spaces. The genetic material from these artifacts was extracted, and analyzed to construct computationally generated 3D printed portrait sculptures. 
 
