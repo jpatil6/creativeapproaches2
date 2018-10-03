@@ -9,10 +9,9 @@ comments: false
 An art project by Jai Patil
 
 In 'Being left behind', I collect self-reported data on the things a person thinks they throws away daily, and suspend these articles
-of trash in a molded sculpture portrait of the person. Since there were several practical limitations in casting a person's face in resin
-, for the purpose of this project I have created a 3D model of the sculpture with the suspended articles of trash also represented in it 
-and rendered it.
-The 
+of trash in a molded sculpture portrait of the person. Since there were several practical limitations in casting a person's face in resin, for the purpose of this project I have created a 3D model of the sculpture with the suspended articles of trash also represented in it and rendered it.
+
+![1]({{ site.url }}/images/1.png)
 
 Garbage is seldom given a second glance. Our interaction with waste is limited to a set of chores that we 
 can perform with as little thought as tying our shoelaces. Garbage is often considered a natural consequence of our existence rather
@@ -33,11 +32,15 @@ In this art piece, I attempt to not only bring people's attention to the need fo
 but also to have people engage with how their trash reflects their identity. There is often a little disgust and repulsion in handling
 trash. I wanted to try breaking this conception by making trash personal and portraying it as aesthetic and pleasing.
 
+
+![2]({{ site.url }}/images/2.png)
+
+
+![3]({{ site.url }}/images/3.png)
+
 ### How I made it:
 
 I used a Xbox kinect sensor to create a 3D scan of a person's face using ReconstructMe software. I then collected self-reported 
 information through a form about people's daily waste habits. As I only studied students at Olin, a lot of the household waste of cooking
 and cleaning was absent from their personally generated trash. I then 3d modelled the articles of trash, and then positioned them within
-the person's sculpture.
-
-![Stranger visions]({{ site.url }}/images/strangervisions.jpg) 
+the person's sculpture. 
