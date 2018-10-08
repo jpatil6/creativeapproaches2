@@ -9,7 +9,7 @@ comments: false
 An art project by Jai Patil
 
 In 'Being left behind', I collect self-reported data on the things a person thinks they throw away daily, and suspend these articles
-of trash in a molded sculpture portrait of the person. Since there were several practical limitations in casting a person's face in resin, for the purpose of this project I have created a 3D model of the sculpture with the suspended articles of trash also represented and rendered in it.
+of trash in a molded sculpture portrait of them. Since there were several practical limitations in casting a person's face in resin, for the purpose of this project I have created a 3D model of the sculpture with the representative suspended articles of trash and rendered it.
 
 ![1]({{ site.url }}/images/1.png)
 
