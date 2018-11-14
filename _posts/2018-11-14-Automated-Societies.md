@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Automated Societies"
+title: "Automated Societies and Project 3 ideation"
 description: "A short response to the readings for CAET FA18 Week 10 Homework assignment and possible leads for project 3"
 category: articles
 comments: false
 ---
 
-Response to Homework 10 and a hunch for Project 3
+Response to the readings _'Automation and the Quantified Society'_ and _'The odd reality of life under China’s all-seeing credit score system'_ for homework 10 and a 'hunch' for CAET Project 3.
 
 In reading about China's dystopian Orwellian credit system, I was agitated by the societal structure this system was inesacapably building towards and what it meant for individual human rights. It was easy to identify the risk of automation in society, and yet somehow I was unable to see a meaningful debugging method for mitigating these risks. Automation is a critical feature of engineering, and in such technological systems there is a universal model, common metrics, and hence some idea of 'optimizing'. In social ecosystems, the subjectivity of model, reference, and scale seems to require a fundamentally different approach.
 
