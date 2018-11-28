@@ -6,23 +6,10 @@ category: articles
 comments: false
 ---
 
-In the previous post, I shared that my initial hunch for this project was to direct it toward discovering metrics for equitable and responsible development of large data-driven systems. Delving deeper into the matter brought out increasingly complex technical, as well as philosophical and ethical issues that I felt simply couldn't be trivialized with an engineered 'solution'. This idea also seemed to approach the project from a heavily technical perspective rather than an artistic one. So I flipped my approach and tried to explore how I could use art to facilitate social change. 
+The lack of transparency of AI and machine learning systems in society is considered to be one of the greatest dangers of this rapidly scalable and versatile technology. AI as a technological system is characterized by a rigidity in protocol development and performance metrics. In contrast, the human intelligence that it aspires to, is characterized by heuristics, emotion, and judgement. We know little about how the brain works or how it develops a sense of justice, ethics, and philosophy. As AI systems foray into the uncharted space between the rigor of engineered intelligence and the heuristic of human intelligence, they are increasingly susceptible to embedding the biases and flaws that arise from the differences between data and our cultural worldview.
 
-AI and machine learning systems in our society are characterised as 'blackboxes'  
+In the previous post, I shared that my initial hunch for this project was to direct it toward discovering metrics for equitable and responsible development of large data-driven systems. Delving deeper into the matter brought out increasingly complex technical, as well as philosophical and ethical issues that I felt simply couldn't be trivialized with an engineered 'solution'. This idea also seemed to approach the project from a heavily technical perspective rather than an artistic one. So I flipped my approach and tried to explore how I could use art to facilitate social change through a more informed collective critique of AI and machine learning.
 
-Response to the readings _'Automation and the Quantified Society'_ and _'The odd reality of life under China’s all-seeing credit score system'_ for homework 10 and a 'hunch' for CAET Project 3.
+I still intended to address this duality in AI, but since any tool only mirrors the motives of the wielder, I wanted to focus on how this system is engineered and what the data that it learns from actually conveys. 
 
-In reading about China's dystopian Orwellian credit system, I was agitated by the societal structure this system was inesacapably building towards and what it meant for individual human rights. It was easy to identify the risk of automation in society, and yet somehow I was unable to see a meaningful debugging method for mitigating these risks. Automation is a critical feature of engineering, and in such technological systems there is a universal model, common metrics, and hence some idea of 'optimizing'. In social ecosystems, the subjectivity of model, reference, and scale seems to require a fundamentally different approach.
-
-The promise and mystery of artifical intelligence has captivated me from a young age. Its possibilties has inspired me to imagine a futuristic technological age that would usher the next revolution in human history. The agitation in reading about China's credit system seemed to resonate with something missing from this idea of artificial intelligence; it highlighted that there is also an associated, but distinct co-evolution of societal systems which may be more difficult to match to any measure of 'progress'.
-
-This theme led me to many questions about what it means to develop technology that 'betters' society, and if there could be any way to formalize this process and visualize metrics for it. Since I have more questions than ideas at this point, I will consider constraints in other dimensions to add a little more definition:
-
-**Mode:**
-I value art as a trigger and facilitator for constructive social movement, so I would like my project to not just intimidate the viewer, but follow up on the shock that grabs their attention, with a teasing idea for a resolution, and then conclude by providing simple, concrete ways for them to follow up on this theme.
-I was in part inspired by Per Espen Stoknes' approach in his book on a 'new psychology' for climate action: 'What we think about when we try not to think about Global Warming' [link](https://www.chelseagreen.com/product/what-we-think-about-when-we-try-not-to-think-about-global-warming/). Even though the book has a few shortcomings, it guides the reader through a sequential breakdown of the psychological barriers to climate change in a way that instills confidence and enterprise.
-
-**Form:**
-A lot of people rely most strongly on vision as their primary sense, and so I prefer using visual representations to most effectively capture and enagage with an audience. I like exploring aesthetic in form, texture, density, color, etc. so that it engages emotionally as well as intellectually when trying to communicate a message.
-
-I will keep adding sections as I do some more research, explore ideas, and consider the practicalities as I try to precipitate some idea of the final project from this. 
+![1]({{ site.url }}/images/datacloud1.png)
